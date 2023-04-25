@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/Welcome"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Welcome"/>
+    <item
+        android:id="@+id/Thankyou"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Thankyou"/>
+    <item
+        android:id="@+id/Birthday"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Birthday"/>
+    <item
+        android:id="@+id/Anniversary"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Anniversary"/>
+    
+
+</menu>
